@@ -11,8 +11,8 @@ var router  = express.Router();
 var { fetchJson, getBuffer } = require('../lib/myfunc');
 
 // Settings
-const listkey = ["danzz","Danzz"];
-const author = "Danzz inc."
+const listkey = ["swads","Swads"];
+const author = "STARS"
 
 // Mess err
 mess = {
